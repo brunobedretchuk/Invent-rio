@@ -1,4 +1,5 @@
-# projeto-2
+#Deployed at: https://dev-inventory-cdbd9.web.app/
+# DEV Inventory
 
 ## Project setup
 ```
