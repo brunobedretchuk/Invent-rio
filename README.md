@@ -1,4 +1,5 @@
 #Deployed at: https://dev-inventory-cdbd9.web.app/
+default login -- abc@gmail.com / 123
 # DEV Inventory
 
 ## Project setup
